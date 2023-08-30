@@ -1,0 +1,31 @@
+.container{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 3.5rem;
+    
+}
+
+table{ 
+    border-collapse: collapse;
+    border: 2px solid grey;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    background-color: dimgrey;
+}
+
+th{ 
+    border: 3px solid grey;
+    padding: 10px;
+    background-color: cadetblue;
+}
+
+td{ 
+    border: 2px solid grey;
+    padding: 10px;
+    background-color: lightsteelblue;
+}
+
+h2{ 
+    text-align: center ;
+}
